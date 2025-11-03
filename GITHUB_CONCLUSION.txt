@@ -1,0 +1,14 @@
+Project: Simple Pricer (Options, Bonds, Mini-Swap)
+
+Conclusion:
+This compact project demonstrates market-pricing fundamentals with clean, production-ready Python:
+- A Black–Scholes implementation for European calls and puts (supporting dividend yield).
+- A straightforward present value model for coupon bonds.
+- A tiny deterministic fixed-vs-fixed swap to illustrate leg PVs and intuition about payer/receiver.
+
+Why it matters for a portfolio:
+- Shows understanding of derivatives beyond theory by building a working pricer and CLI.
+- Clear tests and a Colab notebook make it easy for reviewers to run and verify.
+- Leaves obvious room for extension (Greeks, implied vol, discount curves, Monte Carlo, Streamlit UI).
+
+Signed by: Emanuel Armas
