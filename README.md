@@ -4,7 +4,7 @@
 
 Run everything directly in **Google Colab** — including automatic validation with `pytest`.
 
-##Colab Quickstart
+## Colab Quickstart
 
 1. Open `examples/colab_full_test.ipynb` in Colab (or click the badge above).
 2. The notebook will install dependencies and ask for `pricer.py` (upload it from this ZIP).
